@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0135/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 止觀科節
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0917.xml
+    old_id: X55n0917
+hash: sha256:977c9861906e4fcdbc5d0deaeb6963855dac41efcd3ed32b5beb0dc6c20aaea0

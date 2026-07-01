@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6d0135/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0135/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 止觀科節
+  identifiers:
+    krp: KR6d0135
+    cbeta: X55n0917
+    cbeta_old_id: X55n0917
+    authorityid: CA0002286
+    json_key: X0917
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0917.xml
+    old_id: X55n0917
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0135_000-X.yaml, hash: 'sha256:977c9861906e4fcdbc5d0deaeb6963855dac41efcd3ed32b5beb0dc6c20aaea0'}
+  - {seq: 1, filename: KR6d0135_001-X.yaml, hash: 'sha256:99be8b8448c8060cb7758ce48d0a6142875b1e43fd5abb81e9312bbd707b08a2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0135_000-X.markers.yaml, hash: 'sha256:deff3e8b437fd9136e9b1ce98fb0d2324f982dc8421ccd8d5d5cd8ee0c9cbc6c'}
+  - {seq: 1, role: markers, filename: assets/KR6d0135_001-X.markers.yaml, hash: 'sha256:e5f3aa155f8d4faaaa4472df6f53c635fa75fa32f2045c1eb960073bf3e71854'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0135_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5984
+  label: 止觀科節
+  type: juan
+  level: 1
+hash: sha256:e942997c28cea072a2871ef3afd45c8ba1f08c277f73fa1a126c15a420cef455

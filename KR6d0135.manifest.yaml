@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6d0135/v1
+canonical_location: https://kanripo.org/bkk/KR6d0135/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 止觀科節
+  identifiers:
+    alt_id:
+    - X55n0917
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0917.xml
+    old_id: X55n0917
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0135_000.yaml, hash: 'sha256:977c9861906e4fcdbc5d0deaeb6963855dac41efcd3ed32b5beb0dc6c20aaea0'}
+  - {seq: 1, filename: KR6d0135_001.yaml, hash: 'sha256:ef3fa42b89c624ac38efae1b6530f96ded6733a674c6c163b31a76e59c99bfe0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6d0135_001.markers.yaml, hash: 'sha256:e73b053c4e0ba8976e1a6cb57054b8c38bf9ea6009e29fe926e44213d5345ecd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0135_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5984
+  label: 止觀科節
+  type: juan
+  level: 1
+hash: sha256:6e2c8b3d5917909c5786334eb71fba04b02646d3143217b03b7f61f7da189e31
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
