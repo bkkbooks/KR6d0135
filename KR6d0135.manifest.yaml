@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6d0135/v1
 canonical_location: https://kanripo.org/bkk/KR6d0135/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 止觀科節
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6d0135_000.yaml, hash: 'sha256:977c9861906e4fcdbc5d0deaeb6963855dac41efcd3ed32b5beb0dc6c20aaea0'}
-  - {seq: 1, filename: KR6d0135_001.yaml, hash: 'sha256:99be8b8448c8060cb7758ce48d0a6142875b1e43fd5abb81e9312bbd707b08a2'}
+  - {seq: 1, filename: KR6d0135_001.yaml, hash: 'sha256:8cc9195879f7cea7b17e3bbc84865c093a416d7eb2bb75fb89f16d3e0cd12fc0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6d0135_000.markers.yaml, hash: 'sha256:4e2bd6270861c8c74b6689ea3ff8df3e0585c4c0da79f1ff9e9f5a4ad9b96a67'}
-  - {seq: 1, role: markers, filename: assets/KR6d0135_001.markers.yaml, hash: 'sha256:aa5c75b0946914180f834df4f283f38199c3d58c4a93a08819f9cf87aeb74914'}
+  - {seq: 1, role: markers, filename: assets/KR6d0135_001.markers.yaml, hash: 'sha256:f4d46fac4ed998b786858ba3eb16d40dfb20bdfea0d697c031cbcc622e52b64b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 止觀科節
   type: juan
   level: 1
-hash: sha256:b4f1621672f81a57e186c740f7b7c27b52920483877800596609db6260ce050e
+hash: sha256:36fca0c32aec970fb893d037e9f72fecdfa0e6f1016c399fc9e69040ee6236c1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
